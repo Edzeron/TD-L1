@@ -9,7 +9,7 @@ int main() {
     printf("Flowers are blooming,\n");
     printf("On days like this,\n");
     printf("It is good do go outside,\n");
-    printf("And see the sun.\n");zzzz
+    printf("And see the sun.\n");
 
     return 0;
 }
